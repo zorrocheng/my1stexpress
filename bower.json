@@ -1,0 +1,23 @@
+{
+  "name": "1stexpress",
+  "description": "My first express.js project",
+  "main": "",
+  "authors": [
+    "Zorro Cheng"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "express.js"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "stipe": "git://github.com/Toadstool-Stipe/stipe.git"
+  }
+}

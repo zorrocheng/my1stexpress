@@ -1,0 +1,14 @@
+{
+  "name": "stipe",
+  "homepage": "https://github.com/Toadstool-Stipe/stipe",
+  "_release": "9594a62fc2",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "9594a62fc230e7040e1eb5be382147015161d08e"
+  },
+  "_source": "git://github.com/Toadstool-Stipe/stipe.git",
+  "_target": "*",
+  "_originalSource": "git://github.com/Toadstool-Stipe/stipe.git",
+  "_direct": true
+}
